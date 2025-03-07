@@ -56,7 +56,7 @@ st.markdown(
 )
 
 #title and description
-st.markdown("<h1> Unit Convertor using Pyhton and Streamlit </h1>", unsafe_allow_html=True)
+st.markdown("<h1> 🔄 Ultimate Unit Converter ⚡  </h1>", unsafe_allow_html=True)
 st.write(" 🛠️ Easily convert between different units of Length, Weight, and Temperture. 🌍 ")
 
 #sidebar menu
